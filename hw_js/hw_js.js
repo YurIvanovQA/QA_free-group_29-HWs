@@ -206,7 +206,7 @@ else {
     console.log('Error')}
 }
 
-// // checkAge ( -17 )
+checkAge ( -17 )
 // // checkAge("61")
 // // checkAge("48fff")
 
